@@ -4,7 +4,7 @@ setup(
     name='lab3',
     version='0.1',
     description='lab № 3',
-    author='Maksina Elizaveta',
+    author='Makeykin Aleksander',
     packages=['lab3'],
     scripts = ['runlab3.py'],
 )
